@@ -15,7 +15,7 @@
 6.  <span style="line-height: 19.5px;">"Event Loop"</span>
 
 ### Reto - Servir diferentes archivos basados en el URL del request.
-
+*   <span style="line-height: 19.5px;">Hacer que nuestro servidor regrese al cliente el archivo que le solicitan por un URL similar a este: /archivos/{nombre}. Reemplazando {nombre} por el verdadero nombre del archivo.</span>
 *   <span style="line-height: 19.5px;">Instalar el módulo crossroads con npm (Opcional)</span>
 *   <span style="line-height: 19.5px;">Documentación &nbsp;-&nbsp;</span>[http://millermedeiros.github.io/crossroads.js/#documentation](http://millermedeiros.github.io/crossroads.js/#documentation)
 
